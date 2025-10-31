@@ -544,7 +544,7 @@ if __name__ == '__main__':
 
     ### config from file
     use_config_file = True
-    config_file = 'blade_unwrap_config.json'
+    config_file = 'blade_config.json'
 
     # surface to unwrap
     case = 'Cooled'
