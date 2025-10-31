@@ -12,3 +12,4 @@ This code heavily relies on existing Python packages such as:
 
 # BladeUnwrapper
 A tool to parametrise blade/vane surface for better post-processing and visualisation.
+```blade_unwrapper.py``` is the code with ```blade_config.json``` as an exemplary template for the config file.
