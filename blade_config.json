@@ -1,0 +1,46 @@
+{
+    "Cooled":{
+        "File":"/path/to/blade/data.csv",
+        "Blade1":{
+            "PS":{
+            "Start Nodes":0,
+            "End Nodes":1200,
+            "Start Faces":1205,
+            "End Faces":4000
+            },
+            "SS":{
+            "Start Nodes":4005,
+            "End Nodes":5205,
+            "Start Faces":5210,
+            "End Faces":8000
+            }
+        }
+    },
+  "Noncooled":{
+        "File":"/path/to/blade/data.csv",
+        "Blade1":{
+            "PS":{
+            "Start Nodes":0,
+            "End Nodes":1200,
+            "Start Faces":1205,
+            "End Faces":4000
+            },
+            "SS":{
+            "Start Nodes":4005,
+            "End Nodes":5205,
+            "Start Faces":5210,
+            "End Faces":8000
+            }
+        }
+    },
+    "Corners":{
+        "Blade1":{
+            "Leading Edge Bottom":[0,0,0],
+            "Leading Edge Top":[0,0,0],
+            "SS Trailing Edge Top":[0,0,0],
+            "SS Trailing Edge Bottom":[0,0,0],
+            "PS Trailing Edge Top":[0,0,0],
+            "PS Trailing Edge Bottom":[0,0,0]
+        }
+    }
+}
