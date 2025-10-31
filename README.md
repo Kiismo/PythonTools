@@ -8,3 +8,7 @@ This code heavily relies on existing Python packages such as:
 - [Matplotlib](https://matplotlib.org) (PSF/BSD)
 - [Trimesh](https://trimsh.org) (MIT)
 - [libigl](https://libigl.github.io/) (MPL 2.0)
+
+
+# BladeUnwrapper
+A tool to parametrise blade/vane surface for better post-processing and visualisation.
